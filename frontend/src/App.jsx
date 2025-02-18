@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div>
-        App for tracking habits !!!
+        App for tracking habits !!!!
       </div>
     </>
   )
